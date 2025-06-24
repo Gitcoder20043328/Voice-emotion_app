@@ -1,6 +1,6 @@
 streamlit
-librosa
-numpy
-joblib
+librosa==0.10.1
 scikit-learn
 xgboost
+numpy
+joblib
